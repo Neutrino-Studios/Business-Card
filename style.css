@@ -84,3 +84,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
     gap: 10px;
     margin-top: 1rem;
 }
+
+.fb {
+    background-color: #036bfe;
+}
