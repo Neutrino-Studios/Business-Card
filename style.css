@@ -85,6 +85,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
     margin-top: 1rem;
 }
 
-.fb {
+.card .card-body .fb {
     background-color: #036bfe;
 }
